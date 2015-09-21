@@ -2,7 +2,7 @@
 ## matrix. Contains the following functions:
 ## * setMatrix      set the value of a matrix
 ## * getMatrix      get the value of a matrix
-## * cacheInverse   get the cahced value (inverse of the matrix)
+## * setInverse   set the cahced value (inverse of the matrix)
 ## * getInverse     get the cahced value (inverse of the matrix)
 
 makeCacheMatrix <- function(x = matrix()) {
